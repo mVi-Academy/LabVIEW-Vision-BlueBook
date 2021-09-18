@@ -1,7 +1,7 @@
-# labVIEW-Vision-BlueBook
-《图像处理、分析与机器视觉-基于LabVIEW》（简称：LabVIEW视觉蓝皮书）的配套源码和实例图像
+# labVIEW-Vision-BlueBook Source Code and Image Examples
+LabVIEW视觉蓝皮书配套源码和实例图像
 
-书名：《图像处理、分析与机器视觉-基于LabVIEW》</br>
+书名：《图像处理、分析与机器视觉-基于LabVIEW》——被读者简称为“LabVIEW视觉蓝皮书”</br>
 作者：杨高科</br>
 ISBN: 978-7-302-49641-0</br>
 出版商: 清华大学出版社，2018年6月1日</br>
@@ -38,7 +38,7 @@ ISBN: 978-7-302-49641-0</br>
 
 四、技术支持
 
-    1. Email：gaoke.yang@hotmail.com</br>
-    2. QQ交流群：186796050</br>
+    1. Email：gaoke.yang@hotmail.com
+    2. QQ交流群：186796050
     4. 源码下载：https://github.com/mVi-Academy
    
