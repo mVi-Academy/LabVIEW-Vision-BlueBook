@@ -1,1 +1,2 @@
-*.vi linguist-detectable=false
+* linguist-vendored
+*.vi linguist-vendored=false
