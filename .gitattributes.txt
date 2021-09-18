@@ -1,0 +1,1 @@
+*.vi linguist-detectable=false
