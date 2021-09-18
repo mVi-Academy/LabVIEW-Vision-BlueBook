@@ -38,7 +38,7 @@ ISBN: 978-7-302-49641-0</br>
 
 四、技术支持
 
-　 1. 对本书及光盘中的任何疑问和技术问题，可发邮件至：gaoke.yang@hotmail.com
-   2. QQ在线支持：920822165
-   3. 源码下载：https://github.com/mVi-Academy
+ 1. 对本书及光盘中的任何疑问和技术问题，可发邮件至：gaoke.yang@hotmail.com</br>
+ 2. QQ在线支持：920822165</br>
+ 3. 源码下载：https://github.com/mVi-Academy
    
